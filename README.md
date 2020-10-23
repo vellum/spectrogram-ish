@@ -1,6 +1,6 @@
 # spectrogram-ish
 
-Using https://processing.org to visualize sound, perhaps for live performance. As sound is picked up on your computer's microphone, this sketch produces two rows of spectrogram-like marks before the slate is cleaned to start again.
+Using [Processing](https://processing.org) to visualize sound, perhaps for live performance. As sound is picked up on your computer's microphone, this sketch produces two rows of spectrogram-like marks before the slate is cleared to start again.
 
 ![Screen capture](./screencapture.png)
 
