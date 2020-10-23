@@ -4,15 +4,14 @@ Using https://processing.org to visualize sound, perhaps for live performance. A
 
 ![Screen capture](./screencapture.png)
 
-
-# Installation
-
 There are two folders in this project:
 - `spectrogram` contains the code used to make the visualization above
 - `waveform` contains a simpler version that just shows you a wavy waveform as the mic picks up sounds
 
-1. Copy them into your processing sketches folder. On a mac, this is typically `~/Documents/Processing`.
-2. Open either of these sketches in Processing.
-3. Make some sounds (like talking, yelling, singing) and see things appear and change on screen.
+# Installation
 
-## Thanks for your kind attention.
+1. Copy `spectrogram-ish` into your processing sketches folder. On a mac, this is typically `~/Documents/Processing`.
+2. Open either `spectrogram-ish/spectrogram` or `spectrogram/waveform` in Processing.
+3. Now make some sounds (like talking, yelling, singing) and see things appear and change on screen.
+
+Thanks for your kind attention!
