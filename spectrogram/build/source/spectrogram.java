@@ -14,7 +14,7 @@ import java.io.InputStream;
 import java.io.OutputStream; 
 import java.io.IOException; 
 
-public class spectrogram_v1 extends PApplet {
+public class spectrogram extends PApplet {
 
 
 
@@ -136,7 +136,7 @@ public void draw() {
 }
   public void settings() {  size(1080, 1080); }
   static public void main(String[] passedArgs) {
-    String[] appletArgs = new String[] { "spectrogram_v1" };
+    String[] appletArgs = new String[] { "spectrogram" };
     if (passedArgs != null) {
       PApplet.main(concat(appletArgs, passedArgs));
     } else {
