@@ -16,8 +16,7 @@ There's a folder in this repo called `spectrogram`. It contains the code used to
 # Notes
 - This is tuned for input from a MacBookPro microphone. 
 - This visualization likes a noisy mic.
-- You may need to tinker with the code to get results you like. 
-- If I were using this with a quiet mic like a SM7B, I'd probably amplify the found signal by multiplying the value of `spectrum[i]` by some constant.
+- You may need to tinker with the code to get results you like. If I were using this with a quiet mic like a SM7B, I'd probably amplify the found signal by multiplying the value of `spectrum[i]` by some constant.
 
 Thanks for your kind attention!
 
