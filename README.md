@@ -9,7 +9,7 @@ There's one folder in this project:
 
 # Installation
 
-1. Copy `spectrogram` into your processing sketches folder. On a mac, this is typically `~/Documents/Processing`.
+1. Copy `spectrogram` into your processing sketches folder. On a mac, this is typically `~/Documents/Processing`
 2. Open `spectrogram` in Processing.
 3. Now make some sounds (like talking, yelling, singing) and see things appear and change on screen.
 
