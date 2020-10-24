@@ -4,12 +4,12 @@ uses [Processing](https://processing.org) to visualize sound, perhaps for live p
 
 ![Screen capture](./screencapture.png)
 
-There's one folder in this project:
-- `spectrogram`, which contains the code used to make the visualization above
 
 # Installation
 
-1. Copy `spectrogram` into your processing sketches folder. On a mac, this is typically `~/Documents/Processing`
+There's a folder in this repo called `spectrogram`. It contains the code used to make the visualization above.
+
+1. Copy `spectrogram` into your Processing sketches folder. On a mac, this is typically `~/Documents/Processing`
 2. Open `spectrogram` in Processing.
 3. Now make some sounds (like talking, yelling, singing) and see things appear and change on screen.
 
